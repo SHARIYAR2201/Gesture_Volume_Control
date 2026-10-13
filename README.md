@@ -1,4 +1,4 @@
-# Gesture Control
+# Gesture Volume Control
 
 I wanted to change my laptop volume without touching the keyboard, so I built this. It uses your webcam to track your hand, and you control volume just by pinching your fingers. No extra hardware needed.
 
@@ -59,7 +59,8 @@ If you've never set any of this up before, just follow these in order.
 Either download the ZIP from this page (green Code button, then Download ZIP) and unzip it, or clone it:
 
 ```
-git clone <this-repo-url>
+git clone https://github.com/SHARIYAR2201/Gesture_Volume_Control.git
+cd Gesture_Volume_Control
 ```
 
 In VS Code go to **File > Open Folder** and open the project folder.
