@@ -22,7 +22,7 @@ pyautogui.FAILSAFE = False
 
 CONFIG_FILE = "config.json"
 DEFAULTS = {
-    "min_ratio": 0.15,
+    "min_ratio": 0.20,
     "max_ratio": 1.0,
     "snap": False,
     "brightness": True,
